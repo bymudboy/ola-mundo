@@ -1,6 +1,5 @@
 # ola mundo
- primeiro repositório do curso git & github
+ primeiro repositório git & github
+ teste de repositório 
 
- teste de repositório criado
 
- essa linha eu adicionei diretamento do github
